@@ -1,0 +1,14 @@
+body {
+    padding-left: 20px;
+}
+
+#TPOS {
+    font-size: 40px;
+    font-weight: bold;
+    transform: translateX(400px);
+}
+#aaap {
+    font-size: 17px;
+    font-weight: bolder;
+    transform: translateX(540px);
+}
