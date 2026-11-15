@@ -12,3 +12,30 @@ body {
     font-weight: bolder;
     transform: translateX(540px);
 }
+
+
+.all_types {
+    display: inline-flex;
+    flex-direction: column;
+    row-gap: 60px;
+}
+
+
+#fungi_info {
+    display: inline;
+    visibility: hidden;
+    position:absolute;
+    top: 610px;
+}
+#fungi_pic {
+    height: 200px;
+    transform: translate(700px, -140px);
+}
+
+
+#bacteria_info {
+    display: inline;
+    visibility: hidden;
+    position:absolute;
+    top: 610px;
+}
