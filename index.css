@@ -39,3 +39,11 @@ body {
     position:absolute;
     top: 610px;
 }
+
+
+#virus_info {
+    display: inline;    
+    visibility: hidden;
+    position: absolute;
+    top: 610px;
+}

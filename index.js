@@ -4,9 +4,17 @@
 function show_fungi(){
     document.getElementById("fungi_info").style.visibility = "visible";
     document.getElementById("bacteria_info").style.visibility = "hidden";
+    document.getElementById("virus_info").style.visibility = "hidden";
 }
 
 function show_bacteria(){
-    document.getElementById("bacteria_info").style.visibility = "visible";
     document.getElementById("fungi_info").style.visibility = "hidden";
+    document.getElementById("bacteria_info").style.visibility = "visible";
+    document.getElementById("virus_info").style.visibility = "hidden";
+}
+
+function show_virus(){
+    document.getElementById("fungi_info").style.visibility = "hidden";
+    document.getElementById("bacteria_info").style.visibility = "hidden";
+    document.getElementById("virus_info").style.visibility = "visible";
 }
