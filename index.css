@@ -15,6 +15,17 @@ body {
     transform: translateX(540px);
     color: rgb(151, 151, 151);
 }
+#ques1 {
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+
+
+#ques2 {
+    text-decoration: underline;
+    font-size: 18px;
+}
 
 #types_text {
     transform: translateX(500px);
@@ -37,7 +48,7 @@ body {
     top: 650px;
     font-weight: bold;
 }
-#fungi_pic {
+#pathogen_pic {
     height: 200px;
     transform: translate(700px, -140px);
 }
