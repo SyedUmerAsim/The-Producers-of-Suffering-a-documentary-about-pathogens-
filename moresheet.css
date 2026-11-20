@@ -1,0 +1,11 @@
+body {
+    color: rgb(240, 240, 240);
+    background-color: rgb(0, 60, 3);
+    overflow-x: hidden;
+}
+a {
+    color: grey;
+}
+a:visited {
+    color: lightgray;
+}
